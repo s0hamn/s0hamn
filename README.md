@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Soham
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning React JS
