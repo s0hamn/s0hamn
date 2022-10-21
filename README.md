@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Soham
-- 👀 I’m interested in Frontend Development, Web Series, Anime, Cricket.
+- 👀 I’m interested in Frontend Development, Web Series, Anime and Sports maybe.
 - 🌱 I’m currently learning C, React JS.
