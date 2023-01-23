@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0hamn&label=Profile%20views&color=0e75b6&style=flat" alt="s0hamn" /> </p>
 
-- 🔭 I’m currently working on [Markdown to HTML converter](https://github.com/s0hamn/md-to-html-converter)
-
 - 🌱 I’m currently learning **Nodejs, MongoDB**
 
 - 📫 How to reach me **soham.naigaonkar@gmail.com**
